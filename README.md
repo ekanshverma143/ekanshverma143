@@ -1,5 +1,5 @@
 <h1 align="center">Hey Geeks I'm Ekansh Verma</h1>
-<h3 align="center">Iam an sophomore at NIT Hamirpur perusing Electrical Engineering</h3>
+<h3 align="center">Iam an sophomore at NIT Hamirpur persuing Electrical Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekanshverma143&label=Profile%20views&color=0e75b6&style=flat" alt="ekanshverma143" /> </p>
 
