@@ -11,6 +11,7 @@
 
 - I’m looking to collaborate on **frontend projects**
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ekanshverma143&theme=gotham&hide_border=true&area=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_ekanshverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_ekanshverma" height="30" width="40" /></a>
