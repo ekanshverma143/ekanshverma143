@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_ekanshverma" target="blank"><img src="https://img.shields.io/twitter/follow/i_ekanshverma?logo=twitter&style=for-the-badge" alt="i_ekanshverma" /></a> </p>
 
-- I am currently into stuff like **graphic designing , web designing, web devlopment**
+- I am currently into stuff like **front end web deslopment , web designing**
 
 - I’m currently learning **Web development languages.**
 
