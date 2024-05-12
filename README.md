@@ -1,13 +1,12 @@
 <h1 align="center">Hey Geeks I'm Ekansh Verma</h1>
-<h3 align="center">Iam an sophomore at NIT Hamirpur persuing Electrical Engineering</h3>
+<h3 align="center">Iam a 3rd year undergrad at NIT Hamirpur persuing Electrical Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekanshverma143&label=Profile%20views&color=0e75b6&style=flat" alt="ekanshverma143" /> </p>
 
 <p align="left"> <a href="https://twitter.com/i_ekanshverma" target="blank"><img src="https://img.shields.io/twitter/follow/i_ekanshverma?logo=twitter&style=for-the-badge" alt="i_ekanshverma" /></a> </p>
 
-- I am currently into stuff like **front end web deslopment , web designing**
+- I am currently into  **Web development & UI/UX designing**
 
-- I’m currently learning **Web development languages.**
 
 - I’m looking to collaborate on **frontend projects**
 
