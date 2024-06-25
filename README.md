@@ -1,5 +1,5 @@
 <h1 align="center">Hey Geeks I'm Ekansh Verma</h1>
-<h3 align="center">Iam a 3rd year undergrad at NIT Hamirpur persuing Electrical Engineering</h3>
+<h3 align="center">Iam a final year undergrad at NIT Hamirpur persuing Electrical Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekanshverma143&label=Profile%20views&color=0e75b6&style=flat" alt="ekanshverma143" /> </p>
 
@@ -8,7 +8,7 @@
 - I am currently into  **Web development & UI/UX designing**
 
 
-- I’m looking to collaborate on **frontend projects**
+- I love to work on  **Frontend,ReactJS,JS,HTML,CSS,GOlang**
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=ekanshverma143&theme=gotham&hide_border=true&area=true)
 <h3 align="left">Connect with me:</h3>
